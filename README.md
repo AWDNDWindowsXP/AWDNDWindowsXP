@@ -1,5 +1,9 @@
 ## 👋 你好！我是 @AWDNDWindowsXP
 
+> [!CAUTION]
+> 我正在备考小升初，可能无法及时与你取得联系。
+> 
+
 ![AWDNDWindowsXP's Stats](https://github-readme-stats.vercel.app/api?username=AWDNDWindowsXP&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![AWDNDWindowsXP's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AWDNDWindowsXP&theme=vue-dark&hide_border=true)
 
