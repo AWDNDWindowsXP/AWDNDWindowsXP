@@ -6,6 +6,7 @@
 
 ![AWDNDWindowsXP's Stats](https://github-readme-stats.vercel.app/api?username=AWDNDWindowsXP&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![AWDNDWindowsXP's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AWDNDWindowsXP&theme=vue-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AWDNDWindowsXP)
 
 ## 👀 我对这些感兴趣：
 
