@@ -16,6 +16,8 @@
 ## 📫 如何联系我？
 
 哔哩哔哩：<https://space.bilibili.com/3546619133823602>
+邮箱：awdndwinxp@163.com
+QQ：3829571681
 
 ## ⚡ 有趣的事实：
 
